@@ -16,7 +16,7 @@ EasyOCR is a python module for extracting text from image. It is a general OCR t
 http://127.0.0.1:8000/image_processing/
 ```
 
-![img](image/result.jpg)
+![img](image/cap3.png) 
 
 
 
