@@ -19,7 +19,7 @@ liara's docs :
 ![img](image/result.png)
 
 
-# GOAL 
+
 ## Create Docker for FastAPI :
 ```
 # 
