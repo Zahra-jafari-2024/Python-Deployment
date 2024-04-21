@@ -1,0 +1,8 @@
+fastapi
+pyodbc
+uvicorn
+pydantic
+python-multipart
+pymssql
+
+
