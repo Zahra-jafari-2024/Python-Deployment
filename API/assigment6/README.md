@@ -16,6 +16,9 @@ then open ``` http://127.0.0.1:8000/docs ``` in your browser and test all of it'
 + ## Expert mode :
 
 + 1- docker pull postgres
+  ```
+docker pull postgres
+```
 + 2- docker run :
 ```
 docker run -p 5432:5432 --name some-postgres -e POSTGRES_PASSWORD=ramze_akbar_agha -e POSTGRES_USER=akbar_agha -e POSTGRES_DB=database_akbar_agha -d postgres
@@ -31,10 +34,10 @@ docker run -p 5432:5432 --name some-postgres -e POSTGRES_PASSWORD=ramze_akbar_ag
 
 SQLALCHEMY_DATABASE_URL  =  "postgresql://root:VNBfwH6bUSEcOi8PyWzi3LLb@university-db:5432/postgres"
 
-+ 2- upload docker in project : https://assigment6.liara.run
++ 2- upload docker in liara and project is available in  : https://assigment6.liara.run
 <br> :
 
-![img](image/result1.png)
+![img](image/output.png)
 
 
 
