@@ -1,0 +1,6 @@
+.env
+.ipynb_checkpoints
+.vscode
+.idea
+__pycache__
+async-api
