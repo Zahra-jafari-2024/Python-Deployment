@@ -1,7 +1,8 @@
-## dataframe && chart in Streamlit
-Display a dataframe as an interactive table and chart.
+## Dataframe & chart in Streamlit
 
-URL : https://injury-app.streamlit.app/
+Display a dataframe as an interactive table .
+
+URL : https://injury1-app.streamlit.app/
 
 ### Install dependencies :
 ```
