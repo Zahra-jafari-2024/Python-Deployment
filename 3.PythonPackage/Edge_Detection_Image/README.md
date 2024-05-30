@@ -1,4 +1,4 @@
-# Convert an Image To a Watercolor Image 
+# Image Edge Detection
 
 + Input :
 <p align="center"><img src="https://github.com/Zahra-jafari-2024/Python-Deployment/blob/main/3.PythonPackage/Edge_Detection_Image/Edge_Detection_Image/Ganeshji.jpg" width="400" height="300" ></p> 
