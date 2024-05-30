@@ -1,7 +1,7 @@
 # Convert an Image To a Watercolor Image 
 
 + Input :
-<p align="center"><img src="https://github.com/Zahra-jafari-2024/Python-Deployment/blob/main/3.PythonPackage/Edge_Detection_Image/Edge_Detection_Image/Ganeshji.jpg" width="290" height="200" ></p> 
+<p align="center"><img src="https://github.com/Zahra-jafari-2024/Python-Deployment/blob/main/3.PythonPackage/Edge_Detection_Image/Edge_Detection_Image/Ganeshji.jpg" width="400" height="300" ></p> 
 
 <br>
 
@@ -13,7 +13,7 @@
 # Installation 
 
 ```bash
-pip install picopy
+pip install Edge_Detection_Image
 ```
 
 <br>
@@ -25,11 +25,11 @@ pip install picopy
 ```python
 from picopy import picopy 
 
-picopy.convert_image_to_watercolor("image.jpg")
+Edge_Detection_Image.main("image.jpg")
 
  or 
 
-picopy.convert_image_to_watercolor("https://..../image.jpg")
+Edge_Detection_Image.main("https://..../image.jpg")
 ```
 <br>
 
@@ -38,13 +38,13 @@ picopy.convert_image_to_watercolor("https://..../image.jpg")
 + using local image :
 
 ```bash
-python -m picopy.picopy --imagepath "image.jpg"
+python -m Edge_Detection_Image.main --input "image.jpg"
 ```
 
 + using URL :
 
 ```bash
-python -m picopy.picopy --imagepath "https://..../image.jpg"
+python -m Edge_Detection_Image.main --input "https://..../image.jpg"
 ```
 
 
