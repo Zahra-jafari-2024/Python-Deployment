@@ -6,8 +6,8 @@ import urllib.parse
 
 @st.cache_resource
 def connect_database():
-    #engine = create_engine("sqlite:///database.db")
-    engine = create_engine("postgresql://root:eUQBJ5X3qdmYDvL4mX4ZDsMD@database:5432/postgres")
+    engine = create_engine("sqlite:///database.db")
+    #engine = create_engine("postgresql://root:eUQBJ5X3qdmYDvL4mX4ZDsMD@database:5432/postgres")
     SQLModel.metadata.create_all(engine)
     return engine
 

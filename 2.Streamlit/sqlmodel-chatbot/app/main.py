@@ -10,6 +10,7 @@ import requests
 import psycopg2
 
 
+
 env = dotenv.load_dotenv()
 
 api_key=os.getenv("API_KEY")
