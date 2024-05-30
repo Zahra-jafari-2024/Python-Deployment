@@ -6,7 +6,7 @@
 <br>
 
 + Output :
-<p align="center"><img src="https://github.com/Zahra-jafari-2024/Python-Deployment/blob/main/3.PythonPackage/Edge_Detection_Image/Edge_Detection_Image/output.jpg width="400" height="300" ></p>
+<p align="center"><img src="https://github.com/Zahra-jafari-2024/Python-Deployment/blob/main/3.PythonPackage/Edge_Detection_Image/Edge_Detection_Image/output.jpg" width="400" height="300" ></p>
 
 <br/>
 
