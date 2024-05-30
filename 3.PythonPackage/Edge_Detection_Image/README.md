@@ -23,7 +23,7 @@ pip install Edge_Detection_Image
 ## 1. Use with Python environments : 
 
 ```python
-from picopy import picopy 
+from Edge_Detection_Image import main 
 
 Edge_Detection_Image.main("image.jpg")
 
