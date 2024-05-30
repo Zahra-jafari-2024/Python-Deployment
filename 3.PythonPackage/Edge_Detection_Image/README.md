@@ -1,12 +1,12 @@
 # Convert an Image To a Watercolor Image 
 
 + Input :
-<p align="center"><img src="https://github.com/Kiana-Jahanshid/picopy/raw/main/picopy/na.jpg" width="290" height="200" ></p> 
+<p align="center"><img src="https://github.com/Zahra-jafari-2024/Python-Deployment/blob/main/3.PythonPackage/Edge_Detection_Image/Edge_Detection_Image/Ganeshji.jpg" width="290" height="200" ></p> 
 
 <br>
 
 + Output :
-<p align="center"><img src="https://github.com/Kiana-Jahanshid/picopy/raw/main/picopy/watercolor.jpg" width="410" height="300" ></p>
+<p align="center"><img src=" width="410" height="300" ></p>
 
 <br/>
 
