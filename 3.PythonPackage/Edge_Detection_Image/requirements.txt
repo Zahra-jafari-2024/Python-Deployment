@@ -1,5 +1,0 @@
-opencv-python
-matplotlib.pyplot
-numpy
-matplotlib
-argparse
